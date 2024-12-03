@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227826840780",
+    "project_id": "socialapp-4db20",
+    "storage_bucket": "socialapp-4db20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227826840780:android:97b14e8d364236b9ea7e69",
+        "android_client_info": {
+          "package_name": "com.example.denemefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227826840780-7k5092qpjl5b41a22t4c91ncl1gh6n2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMNVitBG_vCHdBA5K0omUegzr4Jk6kvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227826840780-7k5092qpjl5b41a22t4c91ncl1gh6n2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
